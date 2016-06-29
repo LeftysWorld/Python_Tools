@@ -47,7 +47,7 @@ def list_of_dictionaries(keys_list, values_list):
 def main():
     school_name = 'York College of Pennsylvania'
     file_name = school_name.replace(' ', '_')
-    path = os.path.join('/Users/quietdesperation/Desktop/Python - All/Tools/my_tools/data_mining',
+    path = os.path.join('/Users/.../my_tools/data_mining',
                         '%s.txt' % file_name)
     funnel = reduce(lambda x, y: y(x), [open_file,file_with_split_lines,create_list], path)
     dictionary_of_class_info = list_of_dictionaries(get_dict_keys(funnel),get_dict_values(funnel))
