@@ -52,7 +52,7 @@ def extract_data(body):
 def main():
     school_name = 'York College of Pennsylvania'
     file_name = school_name.replace(' ', '_')
-    new_file_location = os.path.join('/Users/quietdesperation/Desktop/Python - All/Tools/my_tools/data_mining',
+    new_file_location = os.path.join('/Users/.../data_mining',
                                      '%s.txt' % file_name)
     url = r'http://ycpweb.ycp.edu/schedule-of-classes/index.html?term=201610&dept=CS_12&stype=A&ord=1&lev=0'
     funnel = reduce(lambda x, y: y(x), [get_page_data, get_soup_body], url)
