@@ -1,0 +1,280 @@
+<tr class="odd">
+<td>10309</td>
+<td>CS100.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=100&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>CPADS I</td>
+<td class="numval">  3.00</td>
+<td>L/L</td>
+<td>M W F  </td>
+<td>09:00AM-<br>09:50AM</br></td>
+<td>KEC 119</td>
+<td>Hake D</td>
+<td class="numval">14</td>
+<td class="numval">11</td>
+<td class="numval">3</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10325</td>
+<td>CS100.102<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=100&amp;section-1=102" target="_blank">view book info</a></div></br></td>
+<td>CPADS I</td>
+<td class="numval">  3.00</td>
+<td>L/L</td>
+<td>M W F  </td>
+<td>10:00AM-<br>10:50AM</br></td>
+<td>KEC 119</td>
+<td>Babcock D</td>
+<td class="numval">14</td>
+<td class="numval">11</td>
+<td class="numval">3</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10327</td>
+<td>CS100.103<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=100&amp;section-1=103" target="_blank">view book info</a></div></br></td>
+<td>CPADS I</td>
+<td class="numval">  3.00</td>
+<td>L/L</td>
+<td>M W F  </td>
+<td>11:00AM-<br>11:50AM</br></td>
+<td>KEC 119</td>
+<td>Babcock D</td>
+<td class="numval">14</td>
+<td class="numval">13</td>
+<td class="numval">1</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10329</td>
+<td>CS201.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=201&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Fund Comp Sci II</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td>  W F  </td>
+<td>10:00AM-<br>11:15AM</br></td>
+<td>KEC 123</td>
+<td>Hake D</td>
+<td class="numval">16</td>
+<td class="numval">0</td>
+<td class="numval">16</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10332</td>
+<td>CS201.102<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=201&amp;section-1=102" target="_blank">view book info</a></div></br></td>
+<td>Fund Comp Sci II</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td>  W F  </td>
+<td>12:00PM-<br>01:15PM</br></td>
+<td>KEC 123</td>
+<td>Hake D</td>
+<td class="numval">16</td>
+<td class="numval">0</td>
+<td class="numval">16</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10339</td>
+<td>CS201.103<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=201&amp;section-1=103" target="_blank">view book info</a></div></br></td>
+<td>Fund Comp Sci II</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td>  W F  </td>
+<td>12:00PM-<br>01:15PM</br></td>
+<td>KEC 124</td>
+<td>Hovemeyer D</td>
+<td class="numval">16</td>
+<td class="numval">8</td>
+<td class="numval">8</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10337</td>
+<td>CS201.104<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=201&amp;section-1=104" target="_blank">view book info</a></div></br></td>
+<td>Fund Comp Sci II</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td>  W F  </td>
+<td>02:00PM-<br>03:15PM</br></td>
+<td>KEC 123</td>
+<td>Hake D</td>
+<td class="numval">16</td>
+<td class="numval">4</td>
+<td class="numval">12</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10348</td>
+<td>CS330.801<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=330&amp;section-1=801" target="_blank">view book info</a></div></br></td>
+<td>Network App/Protcls</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>05:00PM-<br>06:15PM</br></td>
+<td>KEC 124</td>
+<td>Staff </td>
+<td class="numval">20</td>
+<td class="numval">0</td>
+<td class="numval">20</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10352</td>
+<td>CS340.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=340&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Program Lang Desgn</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>09:30AM-<br>10:45AM</br></td>
+<td>KEC 119</td>
+<td>Hovemeyer D</td>
+<td class="numval">12</td>
+<td class="numval">0</td>
+<td class="numval">12</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10353</td>
+<td>CS340.102<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=340&amp;section-1=102" target="_blank">view book info</a></div></br></td>
+<td>Program Lang Desgn</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>11:00AM-<br>12:15PM</br></td>
+<td>KEC 119</td>
+<td>Hovemeyer D</td>
+<td class="numval">12</td>
+<td class="numval">2</td>
+<td class="numval">10</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10355</td>
+<td>CS350.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=350&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Data Structures</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>12:30PM-<br>01:45PM</br></td>
+<td>KEC 119</td>
+<td>Moscola J</td>
+<td class="numval">18</td>
+<td class="numval">1</td>
+<td class="numval">17</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10359</td>
+<td>CS350.102<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=350&amp;section-1=102" target="_blank">view book info</a></div></br></td>
+<td>Data Structures</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>02:00PM-<br>03:15PM</br></td>
+<td>KEC 119</td>
+<td>Moscola J</td>
+<td class="numval">18</td>
+<td class="numval">2</td>
+<td class="numval">16</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10361</td>
+<td>CS370.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=370&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Comp Graph Progrm I</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>09:30AM-<br>10:45AM</br></td>
+<td>KEC 123</td>
+<td>Babcock D</td>
+<td class="numval">12</td>
+<td class="numval">7</td>
+<td class="numval">5</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10362</td>
+<td>CS370.102<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=370&amp;section-1=102" target="_blank">view book info</a></div></br></td>
+<td>Comp Graph Progrm I</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>11:00AM-<br>12:15PM</br></td>
+<td>KEC 123</td>
+<td>Babcock D</td>
+<td class="numval">12</td>
+<td class="numval">1</td>
+<td class="numval">11</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10363</td>
+<td>CS420.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=420&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Operating Systems</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td>M W F  </td>
+<td>01:00PM-<br>01:50PM</br></td>
+<td>KEC 119</td>
+<td>Moscola J</td>
+<td class="numval">12</td>
+<td class="numval">1</td>
+<td class="numval">11</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>10364</td>
+<td>CS420.102<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=420&amp;section-1=102" target="_blank">view book info</a></div></br></td>
+<td>Operating Systems</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td>M W F  </td>
+<td>02:00PM-<br>02:50PM</br></td>
+<td>KEC 119</td>
+<td>Moscola J</td>
+<td class="numval">12</td>
+<td class="numval">0</td>
+<td class="numval">12</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10365</td>
+<td>CS456.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=456&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Social/Prof Issues</td>
+<td class="numval">  3.00</td>
+<td>LEC</td>
+<td> T R   </td>
+<td>12:30PM-<br>01:45PM</br></td>
+<td>KEC 118</td>
+<td>Babcock D</td>
+<td class="numval">12</td>
+<td class="numval">7</td>
+<td class="numval">5</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="even">
+<td>11488</td>
+<td>CS470.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=470&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Adv Graphics Prog</td>
+<td class="numval">  3.00</td>
+<td>TUT</td>
+<td colspan="2">TO BE ARRANGED</td>
+<td> </td>
+<td>Babcock D</td>
+<td class="numval">0</td>
+<td class="numval">0</td>
+<td class="numval">1</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td>10366</td>
+<td>CS481.101<br><div class="noPrint"><a href="http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=70480&amp;term_id-1=201610&amp;div-1=&amp;dept-1=CS&amp;course-1=481&amp;section-1=101" target="_blank">view book info</a></div></br></td>
+<td>Sr Softwre Projct I</td>
+<td class="numval">  3.00</td>
+<td>L/L</td>
+<td>M      </td>
+<td>12:00PM-<br>12:50PM</br></td>
+<td>KEC 118</td>
+<td>Moscola J</td>
+<td class="numval">14</td>
+<td class="numval">2</td>
+<td class="numval">12</td>
+<td>08/29/16-<br>12/20/16</br></td>
+</tr><tr class="odd">
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>       </td>
+<td> </td>
+<td> </td>
+<td>Hake D</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>

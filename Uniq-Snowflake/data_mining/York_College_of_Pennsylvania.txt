@@ -1,0 +1,293 @@
+
+CRN
+COURSE
+TITLE
+CRED
+TYPE
+DAYS
+TIMES
+LOC
+INSTRUCTOR 
+SEATS
+OPEN
+TOTENRL
+BEGIN-END
+
+10309
+CS100.101
+CPADS I
+  3.00
+L/L
+M W F  
+09:00AM-09:50AM
+KEC 119
+Hake D
+14
+0
+14
+08/29/16-12/20/16
+
+10325
+CS100.102
+CPADS I
+  3.00
+L/L
+M W F  
+10:00AM-10:50AM
+KEC 119
+Babcock D
+14
+5
+9
+08/29/16-12/20/16
+
+10327
+CS100.103
+CPADS I
+  3.00
+L/L
+M W F  
+11:00AM-11:50AM
+KEC 119
+Babcock D
+14
+7
+7
+08/29/16-12/20/16
+
+10329
+CS201.101
+Fund Comp Sci II
+  3.00
+LEC
+  W F  
+10:00AM-11:15AM
+KEC 123
+Hake D
+16
+1
+15
+08/29/16-12/20/16
+
+10332
+CS201.102
+Fund Comp Sci II
+  3.00
+LEC
+  W F  
+12:00PM-01:15PM
+KEC 123
+Hake D
+16
+0
+16
+08/29/16-12/20/16
+
+10339
+CS201.103
+Fund Comp Sci II
+  3.00
+LEC
+  W F  
+12:00PM-01:15PM
+KEC 124
+Hovemeyer D
+16
+9
+7
+08/29/16-12/20/16
+
+10337
+CS201.104
+Fund Comp Sci II
+  3.00
+LEC
+  W F  
+02:00PM-03:15PM
+KEC 123
+Hake D
+16
+4
+12
+08/29/16-12/20/16
+
+10348
+CS330.801
+Network App/Protcls
+  3.00
+LEC
+ T R   
+05:00PM-06:15PM
+KEC 123
+Ray L
+24
+2
+22
+08/29/16-12/20/16
+
+10352
+CS340.101
+Program Lang Desgn
+  3.00
+LEC
+ T R   
+09:30AM-10:45AM
+KEC 119
+Hovemeyer D
+12
+0
+12
+08/29/16-12/20/16
+
+10353
+CS340.102
+Program Lang Desgn
+  3.00
+LEC
+ T R   
+11:00AM-12:15PM
+KEC 119
+Hovemeyer D
+12
+2
+10
+08/29/16-12/20/16
+
+10355
+CS350.101
+Data Structures
+  3.00
+LEC
+ T R   
+12:30PM-01:45PM
+KEC 119
+Moscola J
+18
+1
+17
+08/29/16-12/20/16
+
+10359
+CS350.102
+Data Structures
+  3.00
+LEC
+ T R   
+02:00PM-03:15PM
+KEC 119
+Moscola J
+18
+2
+16
+08/29/16-12/20/16
+
+10361
+CS370.101
+Comp Graph Progrm I
+  3.00
+LEC
+ T R   
+09:30AM-10:45AM
+KEC 123
+Babcock D
+12
+7
+5
+08/29/16-12/20/16
+
+10362
+CS370.102
+Comp Graph Progrm I
+  3.00
+LEC
+ T R   
+11:00AM-12:15PM
+KEC 123
+Babcock D
+12
+1
+11
+08/29/16-12/20/16
+
+10363
+CS420.101
+Operating Systems
+  3.00
+LEC
+M W F  
+01:00PM-01:50PM
+KEC 119
+Moscola J
+12
+0
+12
+08/29/16-12/20/16
+
+10364
+CS420.102
+Operating Systems
+  3.00
+LEC
+M W F  
+02:00PM-02:50PM
+KEC 119
+Moscola J
+12
+0
+12
+08/29/16-12/20/16
+
+10365
+CS456.101
+Social/Prof Issues
+  3.00
+LEC
+ T R   
+12:30PM-01:45PM
+KEC 118
+Babcock D
+12
+6
+6
+08/29/16-12/20/16
+
+11488
+CS470.101
+Adv Graphics Prog
+  3.00
+TUT
+TO BE ARRANGED
+ 
+Babcock D
+0
+0
+1
+08/29/16-12/20/16
+
+10366
+CS481.101
+Sr Softwre Projct I
+  3.00
+L/L
+M      
+12:00PM-12:50PM
+KEC 118
+Moscola J
+14
+1
+13
+08/29/16-12/20/16
+
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+Hake D
+ 
+ 
+ 
+ 
