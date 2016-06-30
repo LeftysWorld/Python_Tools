@@ -55,7 +55,7 @@ def iterative_transfer(accum, seq):
 
 
 def find_recursion_limit():
-    """shows how many recursions are possible with transfer Recursive-Programming"""
+    """shows how many recursions are possible with transfer Recursive_Programming"""
 
     safety_stop = 1200
     i = 0
