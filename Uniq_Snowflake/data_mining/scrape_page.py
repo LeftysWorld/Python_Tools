@@ -52,7 +52,7 @@ def main():
     school_name = 'York College of Pennsylvania'
     file_name = school_name.replace(' ', '_')
     new_file_location = os.path.join('/Users/quietdesperation/Desktop/Python - All/GitHub/'
-                                     'Software-Engineering-Portfolio/Uniq-Snowflake/data_mining', '%s.txt' % file_name)
+                                     'Software-Engineering-Portfolio/Uniq_Snowflake/data_mining', '%s.txt' % file_name)
     url = r'http://ycpweb.ycp.edu/schedule-of-classes/index.html?term=201610&dept=CS_12&stype=A&ord=1&lev=0'
     funnel = reduce(lambda x, y: y(x), [get_page_data, get_soup_body], url)
     add_cleaned_courses_body(funnel, new_file_location)

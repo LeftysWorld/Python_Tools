@@ -55,7 +55,7 @@ def main():
     school_name = 'York College of Pennsylvania'
     file_name = school_name.replace(' ', '_')
     path = os.path.join('/Users/quietdesperation/Desktop/Python - All/GitHub3/'
-                        'Software-Engineering-Portfolio/Uniq-Snowflake/data_mining', '%s.txt' % file_name)
+                        'Software-Engineering-Portfolio/Uniq_Snowflake/data_mining', '%s.txt' % file_name)
     funnel = reduce(lambda x, y: y(x), [open_file, file_with_split_lines, create_list], path)
     dictionary_of_class_info = list_of_dictionaries(get_dict_keys(funnel), get_dict_values(funnel))
     pprint(dictionary_of_class_info)
