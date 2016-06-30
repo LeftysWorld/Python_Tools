@@ -1,9 +1,9 @@
-
 ###########
 # Imports #
 ###########
 
 import unittest
+from Uniq_Snowflake.data_mining.scrape_page import get_soup_body, extract_data
 
 
 ###################
@@ -18,7 +18,7 @@ class TestScrapePage(unittest.TestCase):
     def test_get_soup_body(self):
         test_data = url_data
         expected_res = "[<tr><td>Testing</td></tr>]"
-        res = repr(get_soup_body(test_data)
+        res = repr(get_soup_body(test_data))
 
         self.assertEqual(expected_res, res)
 
