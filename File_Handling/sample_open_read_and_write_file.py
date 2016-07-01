@@ -50,9 +50,9 @@ def read_lower_case_letters(path):
 def main():
     # IVARS - instance variables
     rando_path = os.path.join('/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/'
-                              'File-Handling', 'rando.txt')
+                              'File_Handling', 'rando.txt')
     save_path = os.path.join('/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/'
-                             'File-Handling', 'rando_lower.txt')
+                             'File_Handling', 'rando_lower.txt')
     # setup
     make_random_file(rando_path)
     # load data

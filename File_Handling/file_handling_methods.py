@@ -87,9 +87,9 @@ def save_letters(path, letters):
 def workflow():
     # IVARS - instance variables
     rando_path = os.path.join('/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/'
-                              'File-Handling/', 'rando.txt')
+                              'File_Handling/', 'rando.txt')
     save_path = os.path.join('/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/'
-                             'File-Handling/', 'rando_lower.txt')
+                             'File_Handling/', 'rando_lower.txt')
     # setup
     make_random_file(rando_path)
     # load data
@@ -109,7 +109,7 @@ def main():
 
 
 def test():
-    path = '/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/File-Handling/rando.txt'
+    path = '/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/File_Handling/rando.txt'
     print(load_file_all(path))
     pprint(list(load_file_line(path)))
     pprint(list(load_file_chunks(path)))

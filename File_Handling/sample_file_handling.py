@@ -41,7 +41,7 @@ def make_loop(lines):
 ##########
 
 def main():
-    path = r"/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/File-Handling/path.txt"
+    path = r"/Users/quietdesperation/Desktop/Python - All/GitHub/Software-Engineering-Portfolio/File_Handling/path.txt"
     # print(load_file(path))
     # print(list(load_file_chunks(path)))
     # pprint(list(load_file_line(path)))
