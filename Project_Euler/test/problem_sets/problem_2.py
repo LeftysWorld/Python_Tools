@@ -3,8 +3,7 @@
 ###########
 
 import unittest
-from projecteuler.problem_sets.problem_2 import fibonacci_numbers, sum_of_even_fibonacci_numbers
-
+from Project_Euler.problem_sets.problem_2 import new_fibonacci, sum_of_even_fibonacci_numbers
 
 ###################
 # Testing Library #

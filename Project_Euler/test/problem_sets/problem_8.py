@@ -3,12 +3,14 @@
 ###########
 
 import unittest
-from projecteuler.problem_sets.problem_8 import get_highest_value, multiply_item_in_list, create_list_sets, number_split
 
 
 ###################
 # Testing Library #
 ###################
+from Project_Euler.problem_sets.problem_8 import split_number_to_list, create_list_sets, get_highest_value, \
+    multiply_item_in_list
+
 
 class TestProjectEuler(unittest.TestCase):
     def test_split_number_to_list(self):
@@ -23,13 +25,6 @@ class TestProjectEuler(unittest.TestCase):
         n = 3
         expected_res = [[2,3,4],[3,4,5]]
         res = create_list_sets(lst, n)
-
-        self.assertEqual(expected_res, res)
-
-    def test_get_highest_value(self):
-        lst = [2, 3, 4, 5]
-        expected_res = 60
-        res = get_highest_value(lst)
 
         self.assertEqual(expected_res, res)
 

@@ -3,13 +3,13 @@
 ###########
 
 import unittest
-from projecteuler.problem_sets.problem_6 import get_numbers_under_n, square_numbers, sum_squared, squared_sums, \
+from Project_Euler.problem_sets.problem_6 import get_numbers_under_n, square_numbers, sum_squared, squared_sums, \
     sum_squared_difference
-
 
 ###################
 # Testing Library #
 ###################
+
 
 class TestProjectEuler(unittest.TestCase):
     def test_get_numbers_under_n(self):

@@ -3,7 +3,7 @@
 ###########
 
 import unittest
-from projecteuler.problem_sets.problem_1 import get_numbers_under_n, get_real_numbers
+from Project_Euler.problem_sets.problem_1 import multiples_of_3_and_5
 
 
 ###################
