@@ -10,7 +10,6 @@ from Project_Euler.problem_sets.problem_20 import factorial, number_to_list, cou
 # Testing Library #
 ###################
 
-
 class TestProjectEuler(unittest.TestCase):
     def test_factorial(self):
         n = 4
